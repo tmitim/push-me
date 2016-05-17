@@ -1,0 +1,28 @@
+{
+  "name": "pushbullet-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmitim/pushbullet-node-server.git"
+  },
+  "keywords": [
+    "node",
+    "pushbullet"
+  ],
+  "author": "tmitim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmitim/pushbullet-node-server/issues"
+  },
+  "dependencies": {
+      "express": "^4.13.3",
+      "body-parser": "^1.15.1",
+      "pushbullet": "^1.4.3"
+  },
+  "homepage": "https://github.com/tmitim/pushbullet-node-server"
+}
